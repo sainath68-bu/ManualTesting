@@ -1,2 +1,2 @@
 # ManualTesting
-manual test material
+Manual Testing material
